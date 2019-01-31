@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.250/sezj.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://192.168.2.250/dsad.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://192.168.2.250/dsad.png</string>
+					<string>http://smoothly2012.vicp.net:81/sezj.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>十二战纪安装</string>
 			</dict>
 		</dict>
 	</array>
